@@ -1,0 +1,25 @@
+Total 15 packages affected by 17 known vulnerabilities (2 Critical, 6 High, 7 Medium, 2 Low, 0 Unknown) from 2 ecosystems.
+17 vulnerabilities can be fixed.
+
+
++-------------------------------------+------+-----------+---------------------------------------------------+--------------+---------------+-------------------+
+| OSV URL                             | CVSS | ECOSYSTEM | PACKAGE                                           | VERSION      | FIXED VERSION | SOURCE            |
++-------------------------------------+------+-----------+---------------------------------------------------+--------------+---------------+-------------------+
+| https://osv.dev/GHSA-25qh-j22f-pwp8 | 5.9  | Maven     | ch.qos.logback:logback-core                       | 1.5.18       | 1.5.19        | pom.xml           |
+| https://osv.dev/GHSA-xwmg-2g98-w7v9 | 5.8  | Maven     | com.nimbusds:nimbus-jose-jwt                      | 9.37.3       | 9.37.4        | pom.xml           |
+| https://osv.dev/GHSA-95h4-w6j8-2rp8 | 7.5  | Maven     | io.undertow:undertow-core                         | 2.3.18.Final | 2.3.20.Final  | pom.xml           |
+| https://osv.dev/GHSA-4265-ccf5-phj5 | 6.7  | Maven     | org.apache.commons:commons-compress               | 1.25.0       | 1.26.0        | pom.xml           |
+| https://osv.dev/GHSA-4g9r-vxhx-9pgx | 5.9  | Maven     | org.apache.commons:commons-compress               | 1.25.0       | 1.26.0        | pom.xml           |
+| https://osv.dev/GHSA-j288-q9x7-2f5v | 6.5  | Maven     | org.apache.commons:commons-lang3                  | 3.17.0       | 3.18.0        | pom.xml           |
+| https://osv.dev/GHSA-8v5q-rhf3-jphm | 7.5  | Maven     | org.springframework.security:spring-security-core | 6.4.5        | 6.4.10        | pom.xml           |
+| https://osv.dev/GHSA-9pp5-9c7g-4r83 | 9.1  | Maven     | org.springframework.security:spring-security-core | 6.4.5        | 6.4.6         | pom.xml           |
+| https://osv.dev/GHSA-4wp7-92pw-q264 | 3.1  | Maven     | org.springframework:spring-context                | 6.2.6        | 6.2.7         | pom.xml           |
+| https://osv.dev/GHSA-jmp9-x22r-554x | 7.5  | Maven     | org.springframework:spring-core                   | 6.2.6        | 6.2.11        | pom.xml           |
+| https://osv.dev/GHSA-6r3c-xf4w-jxjm | 6.5  | Maven     | org.springframework:spring-web                    | 6.2.6        | 6.2.8         | pom.xml           |
+| https://osv.dev/GHSA-r936-gwx5-v52f | 5.9  | Maven     | org.springframework:spring-webmvc                 | 6.2.6        | 6.2.10        | pom.xml           |
+| https://osv.dev/GHSA-xffm-g5w8-qvg7 | 2.3  | npm       | @eslint/plugin-kit (dev)                          | 0.2.8        | 0.3.4         | package-lock.json |
+| https://osv.dev/GHSA-4hjh-wcwx-xvwj | 7.5  | npm       | axios                                             | 1.9.0        | 1.12.0        | package-lock.json |
+| https://osv.dev/GHSA-5j98-mcp5-4vw2 | 7.5  | npm       | glob (dev)                                        | 11.0.2       | 11.1.0        | package-lock.json |
+| https://osv.dev/GHSA-9c47-m6qq-7p4h | 7.1  | npm       | json5 (dev)                                       | 0.5.1        | 1.0.2         | package-lock.json |
+| https://osv.dev/GHSA-76p3-8jx3-jpfq | 9.8  | npm       | loader-utils (dev)                                | 0.2.17       | 1.4.1         | package-lock.json |
++-------------------------------------+------+-----------+---------------------------------------------------+--------------+---------------+-------------------+

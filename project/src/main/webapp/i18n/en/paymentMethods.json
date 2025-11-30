@@ -1,0 +1,10 @@
+{
+  "smartdineApp": {
+    "PaymentMethods": {
+      "null": "",
+      "CARD": "CARD",
+      "CASH": "CASH",
+      "COUPONS": "COUPONS"
+    }
+  }
+}
